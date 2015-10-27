@@ -75,7 +75,7 @@ body {
 }
 
 a {
-  color: #EDB304;
+  color: #F06EAA;
   text-decoration: none;
 }
 
@@ -360,7 +360,7 @@ audio {
 
 #site-title a,
 #site-description {
-  color: #EDB304;
+  color: #F06EAA;
   font-weight: 300;
 }
 
@@ -378,7 +378,7 @@ audio {
 }
 
 #site-description  {
-    color: #EDB304;
+    color: #F06EAA;
     font-family: 'Dancing Script',arial,serif;
     font-size: 20px;
     line-height: 100%;
@@ -431,7 +431,7 @@ audio {
 #main-menu li > a.active,
 #main-menu li > a.active-trail {
   background: none repeat scroll 0 0 #ffffff;
-  color: #EDB304;
+  color: #F06EAA;
   text-decoration: none;
 }
 #main-menu a:hover {
@@ -543,7 +543,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
 }
 
 #socialbar  {
-    background-color: #EDB304;
+    background-color: #F06EAA;
     clear: both;
     height: 32px;
     position: relative;
@@ -553,10 +553,10 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
     margin: 0 auto;
     max-width: 1000px;
     text-align:center;
-   
+
 }
-.social-wrapper .social{ 
-	margin:0px auto; 
+.social-wrapper .social{
+	margin:0px auto;
 	float:none;
 	 display: inline-block;
 }
@@ -573,7 +573,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
 }
 
 #main-menu li li a  {
-  background: none repeat scroll 0 0 #EDB304;
+  background: none repeat scroll 0 0 #F06EAA;
   border: 1px solid #343434;
   color: #ffffff;
   font-size: 14px;
@@ -700,7 +700,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
 
 .flex-control-nav li a.flex-active,
 .flex-control-nav li a:hover  {
-  background: none repeat scroll 0 0 #EDB304;
+  background: none repeat scroll 0 0 #F06EAA;
   color: #c24050;
 }
 .flex-direction-nav {
@@ -716,7 +716,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
 }
 
 .slide .flex-caption  {
-    color: #EDB304;
+    color: #F06EAA;
     font-family: 'Dancing Script',arial,serif;
     font-size: 25px;
     font-weight: bold;
@@ -737,7 +737,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
     position: absolute;
     max-width: 1000px;
     min-width:10%;
-    
+
 }
 
 #slider .post {
@@ -891,7 +891,7 @@ body.sidebar-second #sidebar-second {
   border: 0;
 }
 
-#footer-area ul.menu li a.active{
+#F06EAA-area ul.menu li a.active{
   color: #ddd;
 }
 
@@ -920,7 +920,7 @@ ul.links {
 .links li a {
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
-  background: #EDB304;
+  background: #F06EAA;
   border-radius: 4px;
   color: #fff;
   font-weight: normal;
@@ -961,7 +961,7 @@ input.form-checkbox, input.form-radio {
 }
 
 /*-------------------------------------------*
-/* Menus and item lists 
+/* Menus and item lists
 /*-------------------------------------------*/
 .item-list ul {
   margin: 0;
@@ -1376,7 +1376,7 @@ fieldset .fieldset-description {
   font-style: italic;
 }
 
-input { 
+input {
   margin: 2px 0;
   padding: 4px;
 }
@@ -1517,12 +1517,12 @@ input[type="button"]:hover {
 }
 
 #search-block-form .form-actions{
-  float: left; 
-  padding: 0; 
+  float: left;
+  padding: 0;
 }
 
 #search-block-form .form-actions input {
-  margin: 1px 0; 
+  margin: 1px 0;
 }
 
 #search-form .form-item-keys label {
@@ -1614,7 +1614,7 @@ ol.search-results {
 #footer {
   clear: both;
   color: rgb(34, 34, 34);
-  background: none repeat scroll 0 0 #EDB304;
+  background: none repeat scroll 0 0 #F06EAA;
 }
 
 #footer_wrapper{
@@ -1683,7 +1683,7 @@ ol.search-results {
   margin: 0 auto;
 }
 #foot .menu li .active {
-  color:#EDB304;
+  color:#F06EAA;
 }
 #foot .menu li a {
   color:#ffffff;
