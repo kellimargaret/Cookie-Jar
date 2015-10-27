@@ -552,7 +552,7 @@ background: url("../images/google_hover.png") no-repeat scroll center center tra
 .social-wrapper {
     margin: 0 auto;
     max-width: 1000px;
-    text-align:center;
+    text-align: right;
 
 }
 .social-wrapper .social{
